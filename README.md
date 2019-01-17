@@ -1,4 +1,7 @@
 # MicroBlocks-CFG
+
+This config is used with the [ForgeMultipart-CBE](https://minecraft.curseforge.com/projects/forge-multipart-cbe) mod that you can find on [CurseForge](https://minecraft.curseforge.com/projects/forge-multipart-cbe).
+
 Microblocks for modded Minecraft
 
 This microblocks.cfg includes real blocks only.
