@@ -1,6 +1,6 @@
-# MicroBlocks-CFG
+# MicroBlocks.CFG (1.12.2)
 
-This config is used with the [ForgeMultipart-CBE](https://minecraft.curseforge.com/projects/forge-multipart-cbe) mod that you can find on [CurseForge](https://minecraft.curseforge.com/projects/forge-multipart-cbe).
+This config is used with the Minecraft 1.12.2 version of the [ForgeMultipart-CBE](https://minecraft.curseforge.com/projects/forge-multipart-cbe) mod that you can find on [CurseForge](https://minecraft.curseforge.com/projects/forge-multipart-cbe).
 
 Microblocks for modded Minecraft
 
