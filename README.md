@@ -23,3 +23,4 @@ If you want to contribute to this config, please check in game that the microblo
 * Thaumcraft
 * Tinker's Construct
 * Vanilla (actually Minecraft itself)
+* Xtones
