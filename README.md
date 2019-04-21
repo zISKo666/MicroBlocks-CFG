@@ -16,6 +16,7 @@ If you want to contribute to this config, please check in game that the microblo
 * Aroma1997'2 Dimension
 * Better Underground
 * Biomes O' Plenty
+* Blood Magic
 * Chisel
 * Extra Utilites 2
 * Natura
